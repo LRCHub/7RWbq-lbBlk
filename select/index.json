@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "base_track": "Tek It",
+  "base_artist": "Cafuné",
+  "createdAt": "2026-02-21T02:17:25.529842Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Tek It Down",
+      "artist": "Teddybears feat. Rigo",
+      "has_synced": true,
+      "path": "select/01_Tek_It_Down_Teddybears_feat._Rigo.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Tek It Down (Feat. Rigo)",
+      "artist": "Teddybears",
+      "has_synced": true,
+      "path": "select/02_Tek_It_Down_(Feat._Rigo)_Teddybears.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Tek It",
+      "artist": "Cafuné",
+      "has_synced": true,
+      "path": "select/03_Tek_It_Cafuné.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Tek It",
+      "artist": "CAFUNÉ",
+      "has_synced": true,
+      "path": "select/04_Tek_It_CAFUNÉ.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Tek It - Sped Up",
+      "artist": "Cafuné",
+      "has_synced": true,
+      "path": "select/05_Tek_It_-_Sped_Up_Cafuné.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Tek It",
+      "artist": "Cafuné",
+      "has_synced": true,
+      "path": "select/06_Tek_It_Cafuné.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Tek It (Sped Up)",
+      "artist": "Cafuné",
+      "has_synced": true,
+      "path": "select/07_Tek_It_(Sped_Up)_Cafuné.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Tek It (Sped Up)",
+      "artist": "CAFUNÉ",
+      "has_synced": true,
+      "path": "select/08_Tek_It_(Sped_Up)_CAFUNÉ.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Tek It (Sped Up Ver.)",
+      "artist": "Cafuné",
+      "has_synced": true,
+      "path": "select/09_Tek_It_(Sped_Up_Ver.)_Cafuné.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Tek It To Them (Rum Ram)",
+      "artist": "QQ",
+      "has_synced": false,
+      "path": "select/10_Tek_It_To_Them_(Rum_Ram)_QQ.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Tek It - Slowed",
+      "artist": "Cafuné",
+      "has_synced": true,
+      "path": "select/11_Tek_It_-_Slowed_Cafuné.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Tek It",
+      "artist": "CAFUNÉ",
+      "has_synced": true,
+      "path": "select/12_Tek_It_CAFUNÉ.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Cafuné - Tek It",
+      "artist": "CAFUNÉ",
+      "has_synced": true,
+      "path": "select/13_Cafuné_-_Tek_It_CAFUNÉ.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Tek It",
+      "artist": "Cafuné",
+      "has_synced": true,
+      "path": "select/14_Tek_It_Cafuné.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Tek It (Sped Up)",
+      "artist": "Cafuné",
+      "has_synced": true,
+      "path": "select/15_Tek_It_(Sped_Up)_Cafuné.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Tek It (Slowed)",
+      "artist": "Cafuné",
+      "has_synced": true,
+      "path": "select/16_Tek_It_(Slowed)_Cafuné.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Cafuné - Tek It (Sped Up) [Official Audio]",
+      "artist": "CAFUNÉ",
+      "has_synced": true,
+      "path": "select/17_Cafuné_-_Tek_It_(Sped_Up)_[Official_Audio]_CAFUNÉ.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Cafuné - Tek It (Official Lyric Video)",
+      "artist": "CAFUNÉ",
+      "has_synced": true,
+      "path": "select/18_Cafuné_-_Tek_It_(Official_Lyric_Video)_CAFUNÉ.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Tek It",
+      "artist": "CAFUNE",
+      "has_synced": false,
+      "path": "select/pl_01_Tek_It_CAFUNE.txt"
+    }
+  ]
+}
